@@ -120,6 +120,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Sleep mappen naar de lijst of klik op de '+' knop om te bladeren.</string>
 	<key>Edit Metadata</key>
 	<string>Bewerk Metadata</string>
+	<key>Edit Metadata...</key>
+	<string>Bewerk Metadata...</string>
 	<key>Edit Section</key>
 	<string>Bewerk Sectie</string>
 	<key>Episode %d: %@</key>
@@ -152,6 +154,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Bibliotheek</string>
 	<key>Loading metadata for '%@'</key>
 	<string>Laden van metadata voor '%@'</string>
+	<key>MEDIA MANAGER</key>
+	<string>MEDIA MANAGER</string>
 	<key>Manual Entry</key>
 	<string>Handmatige invoer</string>
 	<key>Matching '%@'</key>
@@ -186,17 +190,17 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Originele Titel</string>
 	<key>Originally Available</key>
 	<string>Originally Available</string>
-	<key>PLEX MEDIA MANAGER</key>
-	<string>PLEX MEDIA MANAGER</string>
 	<key>PM</key>
 	<string>PM</string>
 	<key>Path of the directory you'd like to add:</key>
 	<string>Pad van de directory die je wilt toevoegen:</string>
+	<key>Preferences</key>
+	<string>Instellingen</string>
 	<key>Primary metadata agent:</key>
 	<string>Primaire metadata agent:</string>
 	<key>Rating</key>
 	<string>Waardering</string>
-	<key>Refresh Info</key>
+	<key>Refresh Metadata</key>
 	<string>Ververs Info</string>
 	<key>Refresh Section</key>
 	<string>Ververs Sectie</string>
@@ -244,8 +248,6 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Selecteer de juiste film uit onderstaande lijst:</string>
 	<key>Send anonymous usage data to Plex</key>
 	<string>Stuur anonieme gebruikersdata naar Plex</string>
-	<key>Settings</key>
-	<string>Instellingen</string>
 	<key>Sharing</key>
 	<string>Delen</string>
 	<key>Show</key>
@@ -284,6 +286,8 @@ Weet je zeker dat PMS aan staat?</string>
 	<string>Kan "%@" niet verwijderen</string>
 	<key>Unable to update library section</key>
 	<string>Kan de bibliotheeksectie niet bijwerken</string>
+	<key>Unmatch</key>
+	<string>Unmatch</string>
 	<key>Update Section</key>
 	<string>Sectie bijwerken</string>
 	<key>Update my library</key>

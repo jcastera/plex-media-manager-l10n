@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Modifica Metadata";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Modifica Metadata...";
+
 /* Edit Section */
 "Edit Section" = "Modifica Sezione";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "Correggi nome errato";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "Correggi nome errato...";
 
 /* Friday */
@@ -267,17 +270,20 @@
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "File media: ";
 
+/* Header title */
+"MEDIA MANAGER" = "MEDIA MANAGER";
+
 /* Media scanner label */
 "Media scanner:" = "Scansione Media:";
 
 /* Monday */
 "Monday" = "Lunedi'";
 
-/* Movie */
-"Movie" = "Film";
-
 /* A movie */
 "movie" = "film";
+
+/* Movie */
+"Movie" = "Film";
 
 /* Movies */
 "Movies" = "Film";
@@ -329,11 +335,11 @@
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Percorso della cartella che vorresti aggiungere:";
 
-/* Header title */
-"PLEX MEDIA MANAGER" = "PLEX MEDIA MANAGER";
-
 /* PostMeridiem */
 "PM" = "PM";
+
+/* Preferences button in top-right */
+"Preferences" = "Impostazioni";
 
 /* Primary metadata agent label */
 "Primary metadata agent:" = "Agente metadata primario:";
@@ -341,8 +347,8 @@
 /* Rating */
 "Rating" = "Valutazione";
 
-/* Refresh Info */
-"Refresh Info" = "Aggiorna informazioni";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Aggiorna informazioni";
 
 /* Refresh Section */
 "Refresh Section" = "Aggiorna Sezione";
@@ -416,9 +422,6 @@
 /* Send anonymous usage data to Plex */
 "Send anonymous usage data to Plex" = "Manda dati relativi all'uso di Plex in via anonima";
 
-/* Settings button at the top-right */
-"Settings" = "Impostazioni";
-
 /* Sharing */
 "Sharing" = "Condivisione";
 
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "Impossibile aggionare le sezione della libreria";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Unmatch";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Aggiorna la mia libreria";

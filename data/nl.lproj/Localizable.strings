@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Bewerk Metadata";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Bewerk Metadata...";
+
 /* Edit Section */
 "Edit Section" = "Bewerk Sectie";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "Corrigeer incorrecte match";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "Corrigeer Incorrecte Match...";
 
 /* Friday */
@@ -267,17 +270,20 @@
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "Mediabestand: ";
 
+/* Header title */
+"MEDIA MANAGER" = "MEDIA MANAGER";
+
 /* Media scanner label */
 "Media scanner:" = "Mediascanner:";
 
 /* Monday */
 "Monday" = "Maandag";
 
-/* Movie */
-"Movie" = "Film";
-
 /* A movie */
 "movie" = "film";
+
+/* Movie */
+"Movie" = "Film";
 
 /* Movies */
 "Movies" = "Films";
@@ -329,11 +335,11 @@
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Pad van de directory die je wilt toevoegen:";
 
-/* Header title */
-"PLEX MEDIA MANAGER" = "PLEX MEDIA MANAGER";
-
 /* PostMeridiem */
 "PM" = "PM";
+
+/* Preferences button in top-right */
+"Preferences" = "Instellingen";
 
 /* Primary metadata agent label */
 "Primary metadata agent:" = "Primaire metadata agent:";
@@ -341,8 +347,8 @@
 /* Rating */
 "Rating" = "Waardering";
 
-/* Refresh Info */
-"Refresh Info" = "Ververs Info";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Ververs Info";
 
 /* Refresh Section */
 "Refresh Section" = "Ververs Sectie";
@@ -416,9 +422,6 @@
 /* Send anonymous usage data to Plex */
 "Send anonymous usage data to Plex" = "Stuur anonieme gebruikersdata naar Plex";
 
-/* Settings button at the top-right */
-"Settings" = "Instellingen";
-
 /* Sharing */
 "Sharing" = "Delen";
 
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "Kan de bibliotheeksectie niet bijwerken";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Unmatch";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Werk mijn bibliotheek bij";

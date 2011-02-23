@@ -180,6 +180,9 @@
 /* Edit Metadata */
 "Edit Metadata" = "Edeet Metedeta";
 
+/* Context menu item for metadata items */
+"Edit Metadata..." = "Edeet Metedeta...";
+
 /* Edit Section */
 "Edit Section" = "Edeet Secshun";
 
@@ -207,7 +210,7 @@
 /* Fix incorrect match */
 "Fix incorrect match" = "Feex incurrect metch";
 
-/* Fix Incorrect Match... */
+/* Context menu item for metadata items */
 "Fix Incorrect Match..." = "Feex Incurrect Metch...";
 
 /* Friday */
@@ -266,6 +269,9 @@
 
 /* Label for the path to the file whose match is being fixed */
 "Media file: " = "Medeea feele-a: ";
+
+/* Header title */
+"MEDIA MANAGER" = "MEDIA MENEGER";
 
 /* Media scanner label */
 "Media scanner:" = "Medeea scunner:";
@@ -329,11 +335,11 @@
 /* Instruction text for the prompt to add directories manually */
 "Path of the directory you'd like to add:" = "Pet ooff zee durectury yuoo'd leeke-a tu edd:";
 
-/* Header title */
-"PLEX MEDIA MANAGER" = "PLEX MEDIA MENEGER";
-
 /* PostMeridiem */
 "PM" = "PM";
+
+/* Preferences button in top-right */
+"Preferences" = "Prefferences";
 
 /* Primary metadata agent label */
 "Primary metadata agent:" = "Preemery metedeta egent:";
@@ -341,8 +347,8 @@
 /* Rating */
 "Rating" = "Reteeng";
 
-/* Refresh Info */
-"Refresh Info" = "Reffresh Inffu";
+/* Context menu item for metadata items */
+"Refresh Metadata" = "Reffresh Metedeta";
 
 /* Refresh Section */
 "Refresh Section" = "Reffresh Secshun";
@@ -416,9 +422,6 @@
 /* Send anonymous usage data to Plex */
 "Send anonymous usage data to Plex" = "Send ununymuoos usege-a deta tu Plex";
 
-/* Settings button at the top-right */
-"Settings" = "Setteengs";
-
 /* Sharing */
 "Sharing" = "Shereeng";
 
@@ -484,6 +487,9 @@
 
 /* Unable to update library section */
 "Unable to update library section" = "Uneble-a tu updete-a leebrery secshun";
+
+/* Context menu item for metadata items */
+"Unmatch" = "Unmetch";
 
 /* Preference window setting - will have frequencies after it e.g. Update my library every two hours */
 "Update my library" = "Updete-a my leebrery";
